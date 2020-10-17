@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+6. Maintenance Department/.DS_Store
+.DS_Store
+*/.DS_Store
